@@ -1,0 +1,260 @@
+canonical_identifier: bkk:krp/KR6k0143/X/v1
+canonical_location: https://kanripo.org/bkk/KR6k0143/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 毗尼珍敬錄
+  identifiers:
+    krp: KR6k0143
+    cbeta: X39n0708
+    cbeta_old_id: X39n0708
+    authorityid: CA0002395
+    json_key: X0708
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X39/X39n0708.xml
+    old_id: X39n0708
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6k0143_000-X.yaml, hash: 'sha256:a2e5fbe8a9440b5a17e05fe549821392fbdb5f690376a19a85668d69803d6ce1'}
+  - {seq: 1, filename: KR6k0143_001-X.yaml, hash: 'sha256:31cf258294171034fb0cb5ca6495831d169eddceba7b373d564d8d2c5b443ca6'}
+  - {seq: 2, filename: KR6k0143_002-X.yaml, hash: 'sha256:d4bf3a4db4451540755c455eb75ce8671e975c28bc2ce877f0f598e98eb35bb6'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6k0143_000-X.markers.yaml, hash: 'sha256:0e0de55f4afa4ddf91cd10ea4c4e946f383f05d2654ee7f8edeb6435c4223050'}
+  - {seq: 1, role: markers, filename: assets/KR6k0143_001-X.markers.yaml, hash: 'sha256:79ed1957e4bc9142b1e61bfb87ca275daf4025e42e3de101d0913c94840e3cb3'}
+  - {seq: 2, role: markers, filename: assets/KR6k0143_002-X.markers.yaml, hash: 'sha256:edf6eba98eaf161470830836f75cce2e90c7c1061c4bb681d7c54b0f0ff581f1'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6k0143_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 708-A 毗尼珍敬錄序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6k0143_X_000-mulu-2
+    span:
+    - front
+    - 370
+    - 370
+  label: 目次
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6k0143_X_000-mulu-3
+    span:
+    - front
+    - 489
+    - 489
+  label: 戒相圖之一
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6k0143_X_000-mulu-4
+    span:
+    - front
+    - 489
+    - 489
+  label: 戒相攝頌
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6k0143_X_000-mulu-5
+    span:
+    - front
+    - 498
+    - 498
+  label: 戒相頌
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6k0143_X_000-mulu-6
+    span:
+    - front
+    - 1336
+    - 1336
+  label: 四種僧頌
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6k0143_X_000-mulu-7
+    span:
+    - front
+    - 1396
+    - 1396
+  label: 相似非法別眾羯磨頌
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6k0143_X_000-mulu-8
+    span:
+    - front
+    - 1477
+    - 1477
+  label: 十二人不應訶誦
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6k0143_X_000-mulu-9
+    span:
+    - front
+    - 1526
+    - 1526
+  label: 應訶三頌
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6k0143_X_000-mulu-10
+    span:
+    - front
+    - 1544
+    - 1544
+  label: 十重四十八輕戒攝頌
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0143_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 22086
+  label: 毗尼珍敬錄卷上
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0143_X_001-mulu-1
+    span:
+    - body
+    - 34
+    - 34
+  label: 四波羅夷法第一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0143_X_001-mulu-2
+    span:
+    - body
+    - 5191
+    - 5191
+  label: 十三僧伽婆尸沙法第二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0143_X_001-mulu-3
+    span:
+    - body
+    - 12658
+    - 12658
+  label: 二不定法第三
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0143_X_001-mulu-4
+    span:
+    - body
+    - 13157
+    - 13157
+  label: 三十尼薩耆波逸提法第四
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0143_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 26843
+  label: 毗尼珍敬錄卷下
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0143_X_002-mulu-1
+    span:
+    - body
+    - 34
+    - 34
+  label: 九十波逸提法第五
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0143_X_002-mulu-2
+    span:
+    - body
+    - 20393
+    - 20393
+  label: 四波羅提提舍尼法第六
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0143_X_002-mulu-3
+    span:
+    - body
+    - 21062
+    - 21062
+  label: 一百式叉迦羅尼法第七
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0143_X_002-mulu-4
+    span:
+    - body
+    - 23739
+    - 23739
+  label: 七滅諍法第八
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0143_X_002-mulu-5
+    span:
+    - body
+    - 25574
+    - 25574
+  label: 戒相圖之二
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0143_X_002-mulu-6
+    span:
+    - body
+    - 25574
+    - 25574
+  label: 音義
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0143_X_002-mulu-7
+    span:
+    - body
+    - 26516
+    - 26516
+  label: No. 708-B 珍敬錄䟦
+  type: mulu
+  level: 1
+hash: sha256:a044ad22d80a77217a7f166f184a3c6bf986822dd9d92eb73e48afe5fcfc1b6e
