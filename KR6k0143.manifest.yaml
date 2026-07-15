@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6k0143/v1
 canonical_location: https://kanripo.org/bkk/KR6k0143/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 毗尼珍敬錄
   identifiers:
@@ -21,13 +21,13 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6k0143_000.yaml, hash: 'sha256:a2e5fbe8a9440b5a17e05fe549821392fbdb5f690376a19a85668d69803d6ce1'}
-  - {seq: 1, filename: KR6k0143_001.yaml, hash: 'sha256:31cf258294171034fb0cb5ca6495831d169eddceba7b373d564d8d2c5b443ca6'}
-  - {seq: 2, filename: KR6k0143_002.yaml, hash: 'sha256:d4bf3a4db4451540755c455eb75ce8671e975c28bc2ce877f0f598e98eb35bb6'}
+  - {seq: 0, filename: KR6k0143_000.yaml, hash: 'sha256:848a36f8f52aa36538a6b4d407ca30ce0ee99975a16c14d3473d8e82e00cfc7a'}
+  - {seq: 1, filename: KR6k0143_001.yaml, hash: 'sha256:8b3c5a3543e54cebc720591e0ec7da24e74a75831fd2e98059fecfe10124940f'}
+  - {seq: 2, filename: KR6k0143_002.yaml, hash: 'sha256:164cc65f9dc95032bfa78e859857fecb5f9f0d3322bf4f251b0ff9d4c23e3fb9'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6k0143_000.markers.yaml, hash: 'sha256:88114f70a5742692b0f5518b464dc54b04f957c642f6d634b7010d80543f31de'}
-  - {seq: 1, role: markers, filename: assets/KR6k0143_001.markers.yaml, hash: 'sha256:4acf1a2f6dc43605101c710dc1d2e2b9c6f4ff6b76489ac18069864b44815eaa'}
-  - {seq: 2, role: markers, filename: assets/KR6k0143_002.markers.yaml, hash: 'sha256:c3ee9d0ed8334de301f8cd2af2934876dec3b550bb4c51ad895a755e5f57defd'}
+  - {seq: 0, role: markers, filename: assets/KR6k0143_000.markers.yaml, hash: 'sha256:9389aea98963f9c79c6e3fe2043c8a23fdee95094c1f2d0d675e68e302c42ff4'}
+  - {seq: 1, role: markers, filename: assets/KR6k0143_001.markers.yaml, hash: 'sha256:f689375ffdba91b215b042e77fb635378985e72bc4232e002103dc409ff99dff'}
+  - {seq: 2, role: markers, filename: assets/KR6k0143_002.markers.yaml, hash: 'sha256:f65f0315c8d17516b2b2467b3cdd5dd66045308aceac6a1d736d8143b4cf7dec'}
 table_of_contents:
 - ref:
     seq: 0
@@ -259,4 +259,7 @@ table_of_contents:
   label: No. 708-B 珍敬錄䟦
   type: mulu
   level: 1
-hash: sha256:679ecbbceaf66f4d45f809a66345a819aa7bdbdf6816ee6fd885ad014cfee03a
+hash: sha256:af796f990ccbea86c532fc259fb102c7a0dfbc0d0e33b34f6a7217b19336496c
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
